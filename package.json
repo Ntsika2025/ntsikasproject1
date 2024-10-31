@@ -1,0 +1,9 @@
+{
+  "type":"module",
+  "dependencies": {
+    "prompt-sync": "^4.2.0",
+    "random-string-generator-library": "^1.0.0"
+    
+  }
+  
+}
